@@ -31,9 +31,9 @@
 ## Projects
 
 ### Featured Projects in FYS-STK4155 - (Applied Data Analysis and Machine Learning)
-- [**Project 1**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-1-Regression-analysis-and-resampling-methods): Brief description.
-- [**Project 2**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-2-Classification-And-Regression-From-Linear-and-Logistic-Regression-to-Neural-Networks): Brief description.
-- [**Project 3**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-3-Numerical-And-Computational-Methods-For-Partial-Differential-Equations): Brief description.
+- [**Regression analysis and resampling methods**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-1-Regression-analysis-and-resampling-methods): Brief description.
+- [**Classification and Regression, From Linear and Logistic Regression to Neural Networks**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-2-Classification-And-Regression-From-Linear-and-Logistic-Regression-to-Neural-Networks): Brief description.
+- [**Numerical And Computational Methods For Partial Differential Equations**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-3-Numerical-And-Computational-Methods-For-Partial-Differential-Equations): Brief description.
 
 ### Featured Projects in IN1910 
 - [**Project 1**](https://github.com/JonasSemprini/IN1910/tree/main/Project-1): Brief description.
