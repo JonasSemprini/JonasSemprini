@@ -1,16 +1,60 @@
-<h1 align="center">Jonas Semprini Næss</h1>
+<h1 align="center">Hi there, I`m Jonas Semprini Næss 👋</h1>
 
-<!--
-**JonasSemprini/JonasSemprini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:jonas@semprini-naess.com"><img src="https://img.shields.io/badge/Email-youremail@example.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:jonassna@uio.no"><img src="https://img.shields.io/badge/Email-youremail@example.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <strong> MSc student in Applied Mathematics and Risk Analysis | Mathematics Enthusiast | Queens Park Rangers Fan</strong>
+</p>
+
+---
+
+## About Me
+
+## Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+### Frameworks and Libraries
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+### Tools and Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Projects
+
+### Featured Projects in FYS-STK4155 - (Applied Data Analysis and Machine Learning)
+- [**Project 1**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-1-Regression-analysis-and-resampling-methods): Brief description of Project 1.
+- [**Project 2**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-2-Classification-And-Regression-From-Linear-and-Logistic-Regression-to-Neural-Networks): Brief description of Project 2.
+- [**Project 3**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-3-Numerical-And-Computational-Methods-For-Partial-Differential-Equations): Brief description of Project 3.
+
+### Featured Projects in IN1910 
+- [**Project 1**](https://github.com/JonasSemprini/IN1910/tree/main/Project-1): Brief description of Project 1.
+- [**Project 2**](https://github.com/JonasSemprini/IN1910/tree/main/Project-2): Brief description of Project 2.
+- [**Project 3**](https://github.com/JonasSemprini/IN1910/tree/main/Project-3): Brief description of Project 3.
+
+### STK4051 - (Computational Statistics)
+- [**Project 1**](https://github.com/JonasSemprini/STK4051/tree/main/Mandatory%20Assignment%20Part%201): Brief description of Project 4.
+- 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+</p>
