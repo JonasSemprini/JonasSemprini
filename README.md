@@ -2,8 +2,9 @@
 
 
 <p align="center">
-  <a href="mailto:jonas@semprini-naess.com"><img src="https://img.shields.io/badge/Email-jonas@semprini-naess.com-red?style=for-the-badge" alt="Email"></a>
+  <a href="mailto:jonas@semprini-naess.com"><img src="https://img.shields.io/badge/Email-jonas@semprini--naess.com-red?style=for-the-badge" alt="Email"></a>
 </p>
+
 
 
 <p align="center">
