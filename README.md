@@ -1,17 +1,5 @@
 <h1 align="center">Hi there, I am Jonas Semprini Næss 👋</h1>
 
-
-<p align="center">
-  <a href="mailto:jonas@semprini-naess.com"><img src="https://img.shields.io/badge/Email-jonas@semprini--naess.com-red?style=for-the-badge" alt="Email"></a>
-</p>
-
-
-
-<p align="center">
-  <a href="mailto:jonassna@uio.no"><img src="https://img.shields.io/badge/Email-jonassna@uio.no-red?style=for-the-badge" alt="Email"></a>
-</p>
-
-
 ---
 
 ## About Me
@@ -56,3 +44,16 @@
 ### STK4051 - (Computational Statistics)
 - [**Project 1**](https://github.com/JonasSemprini/STK4051/tree/main/Mandatory%20Assignment%20Part%201): Brief Description. 
 
+
+-----------------------
+
+## Contact Information 
+
+<p align="center">
+  <a href="mailto:jonas@semprini-naess.com"><img src="https://img.shields.io/badge/Email-jonas@semprini--naess.com-red?style=for-the-badge" alt="Email"></a>
+</p>
+
+
+<p align="center">
+  <a href="mailto:jonassna@uio.no"><img src="https://img.shields.io/badge/Email-jonassna@uio.no-red?style=for-the-badge" alt="Email"></a>
+</p>
