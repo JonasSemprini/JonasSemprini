@@ -49,9 +49,11 @@
 - [**Project 2**](https://github.com/JonasSemprini/IN1910/tree/main/Project-2): Brief description of Project 2.
 - [**Project 3**](https://github.com/JonasSemprini/IN1910/tree/main/Project-3): Brief description of Project 3.
 
+
 ### STK4051 - (Computational Statistics)
-- [**Project 1**](https://github.com/JonasSemprini/STK4051/tree/main/Mandatory%20Assignment%20Part%201): Brief description of Project 4.
-- 
+- [**Project 1**](https://github.com/JonasSemprini/STK4051/tree/main/Mandatory%20Assignment%20Part%201): Brief description of Project 4. 
+
+
 ## GitHub Stats
 
 <p align="center">
