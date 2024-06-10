@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I`m Jonas Semprini Næss 👋</h1>
+<h1 align="center">Hi there, I am Jonas Semprini Næss 👋</h1>
 
 
 <p align="center">
