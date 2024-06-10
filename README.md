@@ -43,18 +43,18 @@
 ## Projects
 
 ### Featured Projects in FYS-STK4155 - (Applied Data Analysis and Machine Learning)
-- [**Project 1**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-1-Regression-analysis-and-resampling-methods): Brief description of Project 1.
-- [**Project 2**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-2-Classification-And-Regression-From-Linear-and-Logistic-Regression-to-Neural-Networks): Brief description of Project 2.
-- [**Project 3**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-3-Numerical-And-Computational-Methods-For-Partial-Differential-Equations): Brief description of Project 3.
+- [**Project 1**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-1-Regression-analysis-and-resampling-methods): Brief description.
+- [**Project 2**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-2-Classification-And-Regression-From-Linear-and-Logistic-Regression-to-Neural-Networks): Brief description.
+- [**Project 3**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-3-Numerical-And-Computational-Methods-For-Partial-Differential-Equations): Brief description.
 
 ### Featured Projects in IN1910 
-- [**Project 1**](https://github.com/JonasSemprini/IN1910/tree/main/Project-1): Brief description of Project 1.
-- [**Project 2**](https://github.com/JonasSemprini/IN1910/tree/main/Project-2): Brief description of Project 2.
-- [**Project 3**](https://github.com/JonasSemprini/IN1910/tree/main/Project-3): Brief description of Project 3.
+- [**Project 1**](https://github.com/JonasSemprini/IN1910/tree/main/Project-1): Brief description.
+- [**Project 2**](https://github.com/JonasSemprini/IN1910/tree/main/Project-2): Brief description.
+- [**Project 3**](https://github.com/JonasSemprini/IN1910/tree/main/Project-3): Brief description.
 
 
 ### STK4051 - (Computational Statistics)
-- [**Project 1**](https://github.com/JonasSemprini/STK4051/tree/main/Mandatory%20Assignment%20Part%201): Brief description of Project 4. 
+- [**Project 1**](https://github.com/JonasSemprini/STK4051/tree/main/Mandatory%20Assignment%20Part%201): Brief Description. 
 
 
 ## GitHub Stats
