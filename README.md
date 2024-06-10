@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Jonas Semprini Næss </h1>
+<h1 align="center">Jonas Semprini Næss</h1>
 
 <!--
 **JonasSemprini/JonasSemprini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
