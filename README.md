@@ -36,9 +36,9 @@
 - [**Numerical And Computational Methods For Partial Differential Equations**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-3-Numerical-And-Computational-Methods-For-Partial-Differential-Equations): Brief description.
 
 ### Featured Projects in IN1910 
-- [**Project 1**](https://github.com/JonasSemprini/IN1910/tree/main/Project-1): Brief description.
-- [**Project 2**](https://github.com/JonasSemprini/IN1910/tree/main/Project-2): Brief description.
-- [**Project 3**](https://github.com/JonasSemprini/IN1910/tree/main/Project-3): Brief description.
+- [**Modelling a Double Pendulum**](https://github.com/JonasSemprini/IN1910/tree/main/Project-1): Brief description.
+- [**Data Structure Implementation: ArrayList, Linked List and Circular Linked List (Josephus Problem)**](https://github.com/JonasSemprini/IN1910/tree/main/Project-2): Brief description.
+- [**Stochastic Simulations of Fractals**](https://github.com/JonasSemprini/IN1910/tree/main/Project-3): Brief description.
 
 
 ### STK4051 - (Computational Statistics)
