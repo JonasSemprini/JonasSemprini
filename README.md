@@ -2,20 +2,21 @@
 
 
 <p align="center">
-  <a href="mailto:jonas@semprini-naess.com"><img src="https://img.shields.io/badge/Email-youremail@example.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:jonas@semprini-naess.com"><img src="https://img.shields.io/badge/Email-jonas@semprini-naess.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
-  <a href="mailto:jonassna@uio.no"><img src="https://img.shields.io/badge/Email-youremail@example.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-<p align="center">
-  <strong> MSc student in Applied Mathematics and Risk Analysis | Mathematics Enthusiast | Queens Park Rangers Fan</strong>
+  <a href="mailto:jonassna@uio.no"><img src="https://img.shields.io/badge/Email-jonassna@uio.no-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 ## About Me
+
+<p align="center">
+  <strong> MSc student in Applied Mathematics and Risk Analysis | Mathematics Enthusiast | Queens Park Rangers Fan</strong>
+</p>
+
 
 ## Skills
 
