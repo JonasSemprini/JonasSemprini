@@ -2,14 +2,14 @@
 
 ---
 
-## About Me
+# About Me
 
 <p align="center">
   <strong> MSc student in Applied Mathematics and Risk Analysis | Mathematics Enthusiast | Queens Park Rangers Fan</strong>
 </p>
 
 
-## Skills
+# Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,20 +28,20 @@
 ### Tools and Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Projects
+# Projects
 
 ### Featured Projects in FYS-STK4155 - (Applied Data Analysis and Machine Learning)
 - [**Regression analysis and resampling methods**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-1-Regression-analysis-and-resampling-methods): Brief description.
 - [**Classification and Regression, From Linear and Logistic Regression to Neural Networks**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-2-Classification-And-Regression-From-Linear-and-Logistic-Regression-to-Neural-Networks): Brief description.
 - [**Numerical And Computational Methods For Partial Differential Equations**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-3-Numerical-And-Computational-Methods-For-Partial-Differential-Equations): Brief description.
 
-### Featured Projects in IN1910 
+### Featured Projects in IN1910 - (Programming with Scientific Applications)
 - [**Modelling a Double Pendulum**](https://github.com/JonasSemprini/IN1910/tree/main/Project-1): Brief description.
 - [**Data Structure Implementation: ArrayList, Linked List and Circular Linked List (Josephus Problem)**](https://github.com/JonasSemprini/IN1910/tree/main/Project-2): Brief description.
 - [**Stochastic Simulations of Fractals**](https://github.com/JonasSemprini/IN1910/tree/main/Project-3): Brief description.
 
 
-### STK4051 - (Computational Statistics)
+### Featured Projects in STK4051 - (Computational Statistics)
 - [**Project 1**](https://github.com/JonasSemprini/STK4051/tree/main/Mandatory%20Assignment%20Part%201): Brief Description. 
 
 
@@ -49,9 +49,15 @@
 
 ## Contact Information 
 
+
+<h3 align="center"> General Mail </h3> 
+
+
 <p align="center">
   <a href="mailto:jonas@semprini-naess.com"><img src="https://img.shields.io/badge/Email-jonas@semprini--naess.com-red?style=for-the-badge" alt="Email"></a>
 </p>
+
+<h3 align="center"> University Mail </h3> 
 
 
 <p align="center">
