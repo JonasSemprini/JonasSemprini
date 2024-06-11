@@ -2,14 +2,14 @@
 
 ---
 
-# About Me
+<h1 align="center"> About Me </h1>
 
 <p align="center">
   <strong> MSc student in Applied Mathematics and Risk Analysis | Mathematics Enthusiast | Queens Park Rangers Fan</strong>
 </p>
 
 
-# Skills
+<h1 align="center"> Skills </h1>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,7 +47,7 @@
 
 -----------------------
 
-## Contact Information 
+<h1 align="center"> Contact Information </h1>
 
 
 <h3 align="center"> General Mail </h3> 
