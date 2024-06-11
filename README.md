@@ -28,7 +28,7 @@
 ### Tools and Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-# Projects
+<h1 align="center"> Projects </h1>
 
 ### Featured Projects in FYS-STK4155 - (Applied Data Analysis and Machine Learning)
 - [**Regression analysis and resampling methods**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-1-Regression-analysis-and-resampling-methods): Brief description.
