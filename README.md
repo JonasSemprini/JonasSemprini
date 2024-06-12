@@ -33,22 +33,22 @@
 ### Featured Projects in FYS-STK4155 - (Applied Data Analysis and Machine Learning)
 - [**Regression analysis and resampling methods**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-1-Regression-analysis-and-resampling-methods):
 
-  <div style="text-align: right; padding-left: 20px;">
-    This project focuses on implementing and comparing various regression methods, including linear regression, ridge regression, and lasso regression. Additionally, it explores different resampling techniques such as cross-validation and bootstrap methods to evaluate model performance.
-  </div>
+- [**Classification and Regression, From Linear and Logistic Regression to Neural Networks**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-2-Classification-And-Regression-From-Linear-and-Logistic-Regression-to-Neural-Networks):
 
-- [**Classification and Regression, From Linear and Logistic Regression to Neural Networks**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-2-Classification-And-Regression-From-Linear-and-Logistic-Regression-to-Neural-Networks): Brief description.
-- [**Numerical And Computational Methods For Partial Differential Equations**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-3-Numerical-And-Computational-Methods-For-Partial-Differential-Equations): Brief description.
+- [**Numerical And Computational Methods For Partial Differential Equations**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-3-Numerical-And-Computational-Methods-For-Partial-Differential-Equations)
 
 ### Featured Projects in IN1910 - (Programming with Scientific Applications)
-- [**Modelling a Double Pendulum**](https://github.com/JonasSemprini/IN1910/tree/main/Project-1): Brief description.
-- [**Data Structure Implementation: ArrayList, Linked List and Circular Linked List (Josephus Problem)**](https://github.com/JonasSemprini/IN1910/tree/main/Project-2): Brief description.
-- [**Stochastic Simulations of Fractals**](https://github.com/JonasSemprini/IN1910/tree/main/Project-3): Brief description.
+- [**Modelling a Double Pendulum**](https://github.com/JonasSemprini/IN1910/tree/main/Project-1)
+  
+- [**Data Structure Implementation: ArrayList, Linked List and Circular Linked List (Josephus Problem)**](https://github.com/JonasSemprini/IN1910/tree/main/Project-2)
+  
+- [**Stochastic Simulations of Fractals**](https://github.com/JonasSemprini/IN1910/tree/main/Project-3)
 
+### Featured Projects in IN2120 - (Information Security) 
+- [**Security Of Electronic Passports and National ID Cards**](https://github.com/JonasSemprini/IN2120/tree/main/Home-Exam-Project)
 
 ### Featured Projects in STK4051 - (Computational Statistics)
-- [**Project 1**](https://github.com/JonasSemprini/STK4051/tree/main/Mandatory%20Assignment%20Part%201): Brief Description. 
-
+- [**Project 1**](https://github.com/JonasSemprini/STK4051/tree/main/Mandatory%20Assignment%20Part%201): 
 
 -----------------------
 
