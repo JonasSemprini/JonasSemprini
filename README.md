@@ -49,7 +49,7 @@
 
 
 ### Featured Projects in STK4051 - (Computational Statistics)
-- [**Lp-regularization, EM-algorithm, Bayesian Statistics, Combinatorial optimization**](https://github.com/JonasSemprini/STK4051/tree/main/Mandatory%20Assignment%20Part%201): 
+- [**Lp-regularization, EM-algorithm, Bayesian Statistics, Combinatorial optimization**](https://github.com/JonasSemprini/STK4051/tree/main/Mandatory%20Assignment%20Part%201)
 
 -----------------------
 
