@@ -47,8 +47,9 @@
 ### Featured Projects in IN2120 - (Information Security) 
 - [**Security Of Electronic Passports and National ID Cards**](https://github.com/JonasSemprini/IN2120/tree/main/Home-Exam-Project)
 
+
 ### Featured Projects in STK4051 - (Computational Statistics)
-- [**Project 1**](https://github.com/JonasSemprini/STK4051/tree/main/Mandatory%20Assignment%20Part%201): 
+- [**Lp-regularization, EM-algorithm, Bayesian Statistics, Combinatorial optimization**](https://github.com/JonasSemprini/STK4051/tree/main/Mandatory%20Assignment%20Part%201): 
 
 -----------------------
 
