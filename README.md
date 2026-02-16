@@ -5,7 +5,7 @@
 <h1 align="center"> About Me </h1>
 
 <p align="center">
-  <strong> MSc student in Applied Mathematics and Risk Analysis | Mathematics Enthusiast | Queens Park Rangers Fan</strong>
+  <strong> MSc. in Computational Science - Applied Mathematics and Risk Analysis | Mathematics Enthusiast | Queens Park Rangers Fan</strong>
 </p>
 
 
