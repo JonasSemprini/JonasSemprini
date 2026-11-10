@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>MSc in Computational Science</strong><br>
-  - Applied Mathematics and Risk Analysis
+    Applied Mathematics and Risk Analysis
 </p>
 
 <p align="center">
@@ -31,7 +31,6 @@
 ## Projects
 
 ### Applied Data Analysis and Machine Learning
-*FYS-STK4155*
 
 | Project | Focus |
 |:--|:--|
@@ -40,7 +39,6 @@
 | [Numerical methods for PDEs](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-3-Numerical-And-Computational-Methods-For-Partial-Differential-Equations) | Numerical and computational methods for partial differential equations |
 
 ### Programming with Scientific Applications
-*IN1910*
 
 | Project | Focus |
 |:--|:--|
@@ -49,14 +47,12 @@
 | [Fractals](https://github.com/JonasSemprini/IN1910/tree/main/Project-3) | Stochastic simulations of fractals |
 
 ### Information Security
-*IN2120*
 
 | Project | Focus |
 |:--|:--|
 | [Electronic passports and national ID cards](https://github.com/JonasSemprini/IN2120/tree/main/Home-Exam-Project) | Security of electronic passports and national ID cards |
 
 ### Computational Statistics
-*STK4051*
 
 | Project | Focus |
 |:--|:--|
