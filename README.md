@@ -1,73 +1,71 @@
-<h1 align="center">Hi there, I am Jonas Semprini Næss 👋</h1>
+<h1 align="center">Jonas Semprini Næss</h1>
+
+<p align="center">
+  MSc in Computational Science (Applied Mathematics and Risk Analysis)<br>
+  Mathematics enthusiast · Queens Park Rangers fan
+</p>
 
 ---
 
-<h1 align="center"> About Me </h1>
+## Skills
 
-<p align="center">
-  <strong> MSc. in Computational Science - Applied Mathematics and Risk Analysis | Mathematics Enthusiast | Queens Park Rangers Fan</strong>
-</p>
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-<h1 align="center"> Skills </h1>
+**Libraries and frameworks**
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-R2023a-blue?logo=Mathworks&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-### Frameworks and Libraries
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+**Tools**
 
-### Tools and Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<h1 align="center"> Projects </h1>
+---
 
-### Featured Projects in FYS-STK4155 - (Applied Data Analysis and Machine Learning)
-- [**Regression analysis and resampling methods**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-1-Regression-analysis-and-resampling-methods)
+## Projects
 
-- [**Classification and Regression, From Linear and Logistic Regression to Neural Networks**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-2-Classification-And-Regression-From-Linear-and-Logistic-Regression-to-Neural-Networks)
+### Applied Data Analysis and Machine Learning (FYS-STK4155)
 
-- [**Numerical And Computational Methods For Partial Differential Equations**](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-3-Numerical-And-Computational-Methods-For-Partial-Differential-Equations)
+| Project | Topic |
+|---|---|
+| [Regression analysis and resampling methods](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-1-Regression-analysis-and-resampling-methods) | Regression models and resampling techniques |
+| [Classification and regression](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-2-Classification-And-Regression-From-Linear-and-Logistic-Regression-to-Neural-Networks) | From linear and logistic regression to neural networks |
+| [Numerical methods for PDEs](https://github.com/JonasSemprini/FYS-STK4155/tree/main/Project-3-Numerical-And-Computational-Methods-For-Partial-Differential-Equations) | Numerical and computational methods for partial differential equations |
 
-### Featured Projects in IN1910 - (Programming with Scientific Applications)
-- [**Modelling a Double Pendulum**](https://github.com/JonasSemprini/IN1910/tree/main/Project-1)
-  
-- [**Data Structure Implementation: ArrayList, Linked List and Circular Linked List (Josephus Problem)**](https://github.com/JonasSemprini/IN1910/tree/main/Project-2)
-  
-- [**Stochastic Simulations of Fractals**](https://github.com/JonasSemprini/IN1910/tree/main/Project-3)
+### Programming with Scientific Applications (IN1910)
 
-### Featured Projects in IN2120 - (Information Security) 
-- [**Security Of Electronic Passports and National ID Cards**](https://github.com/JonasSemprini/IN2120/tree/main/Home-Exam-Project)
+| Project | Topic |
+|---|---|
+| [Double pendulum](https://github.com/JonasSemprini/IN1910/tree/main/Project-1) | Modelling a double pendulum |
+| [Data structures](https://github.com/JonasSemprini/IN1910/tree/main/Project-2) | ArrayList, linked list and circular linked list (Josephus problem) |
+| [Fractals](https://github.com/JonasSemprini/IN1910/tree/main/Project-3) | Stochastic simulations of fractals |
 
+### Information Security (IN2120)
 
-### Featured Projects in STK4051 - (Computational Statistics)
-- [**Lp-regularization, EM-algorithm, Bayesian Statistics, Combinatorial optimization, Stochastic gradient decent**](https://github.com/JonasSemprini/STK4051/tree/main/Mandatory%20Assignment%20Part%201)
+| Project | Topic |
+|---|---|
+| [Electronic passports and national ID cards](https://github.com/JonasSemprini/IN2120/tree/main/Home-Exam-Project) | Security analysis of electronic passports and national ID cards |
 
------------------------
+### Computational Statistics (STK4051)
 
-<h1 align="center"> Contact Information </h1>
+| Project | Topic |
+|---|---|
+| [Mandatory assignment, part 1](https://github.com/JonasSemprini/STK4051/tree/main/Mandatory%20Assignment%20Part%201) | Lp-regularization, EM algorithm, Bayesian statistics, combinatorial optimization, stochastic gradient descent |
 
+---
 
-<h3 align="center"> General Mail </h3> 
+## Contact
 
-
-<p align="center">
-   <a href="mailto:jonas@semprini-naess.com"><img src="https://img.shields.io/badge/Email-jonas%40semprini--naess.com-red?style=for-the-badge" alt="Email"></a>
-</p>
-
-<h3 align="center"> University Mail </h3> 
-
-
-<p align="center">
-  <a href="mailto:jonassna@uio.no"><img src="https://img.shields.io/badge/Email-jonassna@uio.no-red?style=for-the-badge" alt="Email"></a>
-</p>
+- **Email:** [jonas@semprini-naess.com](mailto:jonas@semprini-naess.com)
+- **University email:** [jonassna@uio.no](mailto:jonassna@uio.no)
